@@ -1,4 +1,4 @@
 - Getting better at programming
-- Getting better at angular
+- Getting better at react
 - Getting better at using github
 - Having a new job
